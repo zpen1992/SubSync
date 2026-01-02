@@ -134,7 +134,7 @@ const App: React.FC = () => {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">SubSync Pro</h1>
+              <h1 className="text-xl font-bold tracking-tight">Srt字幕校对</h1>
               <p className="text-slate-400 text-xs font-medium">100% 本地运行 · 字幕时间轴同步工具</p>
             </div>
           </div>
