@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SubSync Pro: Gemini Subtitle Validator",
+  "description": "A professional tool to compare original English subtitles with Gemini-translated bilingual subtitles, ensuring timeline consistency and identifying synchronization errors with visual diffing and AI-powered analysis.",
+  "requestFramePermissions": []
+}
